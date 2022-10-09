@@ -1,0 +1,2 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"mytweety.mytweetyapp.benchBinary.binary","avgt",1,20,463.494537,76.308136,"ms/op"
