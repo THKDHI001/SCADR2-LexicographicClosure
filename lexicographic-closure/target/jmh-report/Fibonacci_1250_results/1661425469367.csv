@@ -1,0 +1,2 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"mytweety.lexicographic.LexicalTimer.fibonacci","avgt",1,20,339.469418,104.131463,"ms/op"

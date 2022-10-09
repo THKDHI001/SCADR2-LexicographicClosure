@@ -1,0 +1,2 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"mytweety.mytweetyapp.benchPowerSet.powerSet","avgt",1,20,65.002704,12.818329,"ms/op"
