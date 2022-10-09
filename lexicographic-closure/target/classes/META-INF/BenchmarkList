@@ -1,0 +1,4 @@
+JMH S 35 mytweety.lexicographic.LexicalTimer S 63 mytweety.lexicographic.generated.LexicalTimer_fibonacci_jmhTest S 9 fibonacci S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 2 10 T 3 1 s E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 38 mytweety.lexicographic.ConcurrentTimer S 66 mytweety.lexicographic.generated.ConcurrentTimer_fibonacci_jmhTest S 9 fibonacci S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 2 10 T 3 1 s E I 1 2 E E E E E E U 7 SECONDS E E 
+JMH S 32 mytweety.lexicographic.RankTimer S 57 mytweety.lexicographic.generated.RankTimer_ranker_jmhTest S 6 ranker S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 2 10 T 3 1 s E I 1 2 E E E E E E U 7 SECONDS E E 
+JMH S 33 mytweety.lexicographic.PowerTimer S 60 mytweety.lexicographic.generated.PowerTimer_powerset_jmhTest S 8 powerset S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 2 10 T 3 1 s E I 1 2 E E E E E E U 7 SECONDS E E 
